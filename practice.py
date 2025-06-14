@@ -1,1 +1,2 @@
-import cv2
+f = open("text.txt",'w')
+f.close()
